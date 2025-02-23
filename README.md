@@ -1,6 +1,27 @@
-Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! 
-This is Vikram Kavuri
-=====================================================================================================================================
+<!-- Welcome to My GitHub Profile -->
+<h1 align="center">
+  Hello, Data Universe! <span style="font-size:1.2em;">📊</span>
+</h1>
+
+<p align="center">
+  <img src="https://youtu.be/cCLdboJVlJ0" alt="Data Engineering Pipeline in Action" type="video/mp4" width="200" />
+</p>
+
+
+
+
+<h2 align="center">I'm <strong>Vikram Kavuri</strong></h2>
+<p align="center">
+  Data Analytics Engineer | Bridging Data & Engineering
+</p>
+
+<hr>
+
+<p align="center">
+  "Harnessing the power of data with engineering precision—transforming raw numbers into actionable insights."
+</p>
+
+========================================================================================================================================================================================
 ### Skills
 
 <!-- Programming Languages -->
@@ -9,7 +30,6 @@ This is Vikram Kavuri
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
-  <span style="display: inline-block; width: 20px;"></span>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
   </a>
@@ -22,15 +42,18 @@ This is Vikram Kavuri
 <h3>Development Tools</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6NCxPLGi_MIQmnA7DwXINCdm5vHiGUkygA&s" width="36" height="36" alt="VS Code" />
   </a>
 </p>
 
 <!-- Databases -->
 <h3>Databases</h3>
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://banner2.cleanpng.com/20180403/lhe/avhmo6cw1.webp" width="54" height="36" alt="SQL" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
