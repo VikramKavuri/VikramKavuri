@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://youtu.be/cCLdboJVlJ0" alt="Data Engineering Pipeline in Action" type="video/mp4" width="200" />
+  <img src="https://github.com/VikramKavuri/VikramKavuri/blob/d8f330016a22b5963f879335a8de0026036611bc/20250223_1519_Data%20Transforms%20to%20Art_simple_compose_01jmt7eftcfb985pjztzd1phm2.gif" alt="Data Engineering Pipeline in Action" width="200" />
 </p>
 
 
