@@ -22,7 +22,7 @@
 </p>
 
 ========================================================================================================================================================================================
-### Skills
+<h2 align="center"> Skills</h2>
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
@@ -35,17 +35,6 @@
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="36" height="36" alt="Java" />
-  </a>
-</p>
-
-<!-- Development Tools -->
-<h3>Development Tools</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6NCxPLGi_MIQmnA7DwXINCdm5vHiGUkygA&s" width="36" height="36" alt="VS Code" />
   </a>
 </p>
 
@@ -63,6 +52,7 @@
   </a>
 </p>
 
+
 <!-- Business Intelligence & Data Visualization -->
 <h3>Business Intelligence & Data Visualization</h3>
 <p align="left">
@@ -76,13 +66,49 @@
     <img src="https://www.svgrepo.com/show/354242/qlik.svg" width="36" height="36" alt="Qlik Sense" />
   </a>
   <a href="https://learn.microsoft.com/en-us/sql/reporting-services/" target="_blank" rel="noreferrer">
-    <img src="https://acmeware.com/images/logos/sql-reporting1.png" width="36" height="36" alt="SSRS" />
+    <img src="https://acmeware.com/images/logos/sql-reporting1.png" width="64" height="40" alt="SSRS" />
   </a>
   <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://files.svgcdn.io/logos/apache-superset.svg" width="36" height="36" alt="Apache Superset" />
+    <img src="https://files.svgcdn.io/logos/apache-superset.svg" width="50" height="36" alt="Apache Superset" />
   </a>
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/databricks" width="36" height="36" alt="Databricks" />
+  </a>
+</p>
+
+<!-- Cloud Platforms -->
+<h3>Cloud Platforms</h3>
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="36" height="36" alt="AWS" />
+  </a>
+  <a href="https://azure.microsoft.com/en-gb/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" width="36" height="36" alt="Azure" />
+  </a>
+</p>
+
+<!-- ETL Tools -->
+<h3>ETL Tools</h3>
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66d1619402e0a2a8054d28da_660cf955d57294eefd7bfdaa_OzkE8fiKw7u7IGHsCJLx6_VdC0ztb7AOPIg-WBSIO8HPIrw3vjEh-KrokuY5Uo_iHDegaedpSIQw12kmgdnduxRzYTgo-BDRCmwe--uQokgS3bNpouK6cJTvwGlTa9K2Lgfddhf2c6KDPeHBU_XW9A.png" width="64" height="42" alt="SSIS" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/67512d054f4a4650c54d939e_AD_4nXdpIrmwouSQ0VuKo2kM-YQLm6glKy-FVmwN0NqKA7k5kMK1oezyJHvhdnBSopWqB6QPJEIt1TZILUL1npSWtu16PC69nfTKjJ2i3xwnuB0VGBojFkvYv6Njazvk_P3CuNfqETCM2A.png" width="54" height="42" alt="Azure Data Factory" />
+  </a>
+  <a href="https://www.informatica.com/" target="_blank" rel="noreferrer">
+    <img src="https://banner2.cleanpng.com/20180412/qxq/avfgen62o.webp" width="54" height="42" alt="Informatica" />
+  </a>
+</p>
+
+<!-- Development Tools -->
+<h3>Development Tools</h3>
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6NCxPLGi_MIQmnA7DwXINCdm5vHiGUkygA&s" width="36" height="36" alt="VS Code" />
   </a>
 </p>
 
