@@ -71,9 +71,6 @@
   <a href="https://superset.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://files.svgcdn.io/logos/apache-superset.svg" width="50" height="36" alt="Apache Superset" />
   </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/databricks" width="36" height="36" alt="Databricks" />
-  </a>
 </p>
 
 <!-- Cloud Platforms -->
@@ -98,6 +95,9 @@
   </a>
   <a href="https://www.informatica.com/" target="_blank" rel="noreferrer">
     <img src="https://banner2.cleanpng.com/20180412/qxq/avfgen62o.webp" width="54" height="42" alt="Informatica" />
+  </a>
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/databricks" width="36" height="36" alt="Databricks" />
   </a>
 </p>
 
