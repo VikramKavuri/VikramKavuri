@@ -10,7 +10,7 @@
         <p align="center">Data Analytics Engineer | Bridging Data & Engineering</p>
         <hr />
         <p>
-          "Harnessing the power of data with engineering precision    transforming raw numbers into actionable insights."
+          "Harnessing the power of data with engineering precision, transforming raw numbers into actionable insights."
         </p>
       </td>
     </tr>
