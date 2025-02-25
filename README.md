@@ -1,25 +1,25 @@
-<!-- Welcome to My GitHub Profile -->
-<h1 align="center">
-  Hello, Data Universe! <span style="font-size:1.2em;">📊</span>
-</h1>
+<div align="center">
+  <h1>Hello, Data Universe! <span style="font-size:1.2em;">📊</span></h1>
+  <table style="margin: 0 auto;">
+    <tr>
+      <td style="vertical-align: middle;">
+        <img src="https://github.com/VikramKavuri/VikramKavuri/blob/d8f330016a22b5963f879335a8de0026036611bc/20250223_1519_Data%20Transforms%20to%20Art_simple_compose_01jmt7eftcfb985pjztzd1phm2.gif" alt="Data Engineering Pipeline in Action" width="500" />
+      </td>
+      <td style="padding-left: 20px; vertical-align: middle; text-align: center; min-width: 300px;">
+        <h2 align="center">I'm <strong>Vikram Kavuri</strong></h2>
+        <p align="center">Data Analytics Engineer | Bridging Data & Engineering</p>
+        <hr />
+        <p>
+          "Harnessing the power of data with engineering precision    transforming raw numbers into actionable insights."
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github.com/VikramKavuri/VikramKavuri/blob/d8f330016a22b5963f879335a8de0026036611bc/20250223_1519_Data%20Transforms%20to%20Art_simple_compose_01jmt7eftcfb985pjztzd1phm2.gif" alt="Data Engineering Pipeline in Action" width="200" />
-</p>
 
 
 
-
-<h2 align="center">I'm <strong>Vikram Kavuri</strong></h2>
-<p align="center">
-  Data Analytics Engineer | Bridging Data & Engineering
-</p>
-
-<hr>
-
-<p align="center">
-  "Harnessing the power of data with engineering precision—transforming raw numbers into actionable insights."
-</p>
 
 ================================================================================================================================================================================
 <h2 align="center"> Skills</h2>
