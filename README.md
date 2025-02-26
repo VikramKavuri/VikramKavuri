@@ -41,6 +41,9 @@
 <!-- Databases -->
 <h3>Databases</h3>
 <p align="left">
+  <a href="https://www.snowflake.com/trending/healthcare-analytics/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/6453780?s=280&v=4" width="34" height="36" alt="SQL" />
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://banner2.cleanpng.com/20180403/lhe/avhmo6cw1.webp" width="54" height="36" alt="SQL" />
   </a>
